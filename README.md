@@ -4,7 +4,7 @@ This repository contains a simple Solidity smart contract and a basic frontend a
 
 # FRONTEND DISCRIPTION:
 
-The frontend is a simple HTML and JavaScript application that allows you to interact with the SimpleContract and display its values.
+The frontend is a simple TailwindCSS and DaisyUI application that allows you to interact with the SimpleContract and display its values.Users will be able to connect their metamask with steps mentioned very easily.
 
 # PREREQUISITES:
 
@@ -33,6 +33,8 @@ Back in the first terminal, type npm run dev to launch the front-end.
 After this, the project will be running on your localhost. Typically at http://localhost:3000/
 
 Connect your Ethereum provider (e.g., MetaMask) to the network where your Assessment is deployed.
+
+Now with different functions users can transact, deposit or many work they can do with wallet.
 
 Interact with the contract using the provided form inputs and buttons in the frontend.
 
